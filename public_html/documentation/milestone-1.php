@@ -17,8 +17,14 @@
 			Microsoft Office Suite but she does use a few other programs to scan, edit, and send documents. Outside of work,
 			she is frequently on her iPhone7 looking and Facebook and Instagram, her age group is the largest age group on
 			Facebook. She also uses her phone to complete most of her online shopping.</p>
-		<p><strong>Attitudes and Behaviors:</strong>She has been a long time sufferer of</p>
-		<p><strong>Needs:</strong></p>
+		<p><strong>Attitudes and Behaviors:</strong>She has been a long time sufferer of back pain and has been taking
+			pain medication for years. As she has gotten older she has started to research more natural options for pain
+			relief. Through her research she has discovered that nature provides people with an abundance of plants and
+			herbs that can be used to enhance and improve the quality of life for many people.</p>
+		<p><strong>Frustrations:</strong>As she has become more interested in botanicals, Barbara she has found it hard to
+			find some of the less well known plants and herbs. She can go down to her local all natural grocery and find 15
+			differnt brands of echinacea with golden seal but cannot find shilajit or rooibos tea. She has been buying her
+			needs on line but most of the websites she has been using are outdated and difficult to navigate.</p>
 		<p><strong>Goals:</strong></p>
 		<p><strong>User Story:</strong></p>
 		<h1>Use Case</h1>
