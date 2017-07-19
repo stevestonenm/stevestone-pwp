@@ -25,8 +25,10 @@
 			find some of the less well known plants and herbs. She can go down to her local all natural grocery and find 15
 			differnt brands of echinacea with golden seal but cannot find shilajit or rooibos tea. She has been buying her
 			needs on line but most of the websites she has been using are outdated and difficult to navigate.</p>
-		<p><strong>Goals:</strong></p>
-		<p><strong>User Story:</strong></p>
+		<p><strong>Goals:</strong>Barbara wants to find a website that is easy to navigate and provides good information
+			about the products they carry. Customer service is also important to her. She wants to be able to actually get
+			a response from a real person if she contacts the business.</p>
+		<p><strong>User Story:</strong>Wants to be able to </p>
 		<h1>Use Case</h1>
 		<p></p>
 		<p>.</p>
