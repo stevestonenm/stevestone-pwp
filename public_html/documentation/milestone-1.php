@@ -1,13 +1,18 @@
 <!DOCTYPE html>
 <html>
+
 	<head>
 		<meta charset="utf-8">
 	</head>
+
 	<body>
+
 		<h1>Purpose, Audience, & Goal</h1>
-		<p><strong>Purpose:</strong>My personal website project will establish my presence as a go to for plants and herbs.</p>
-		<p><strong>Audience:</strong>Hardwoeking people know the benefits of ethnobotany and those new to the arena.</p>
-		<p><strong>Goal:</strong>The goal is to increase sales through an online retail site<p>
+		<p><strong>Purpose:</strong>My personal website project will increase awareness and knowledge about my brand and
+			the products I sell.</p>
+		<p><strong>Audience:</strong>Hardworking people know the benefits of ethnobotany and those new to the arena.</p>
+		<p><strong>Goal:</strong>Increasing awareness and knowledge about my products and brand will help generate more
+			sales.<p>
 		<h1>Persona</h1>
 		<p><strong>Name:</strong>Barbara O'Malley<br>
 			<strong>Age:</strong>44<br></p>
@@ -28,9 +33,17 @@
 		<p><strong>Goals:</strong>Barbara wants to find a website that is easy to navigate and provides good information
 			about the products they carry. Customer service is also important to her. She wants to be able to actually get
 			a response from a real person if she contacts the business.</p>
-		<p><strong>User Story:</strong>Wants to be able to </p>
+		<p><strong>User Story:</strong>She wants to be able to have multiple options for here pain management and wants to
+			purchase from someone with knowledge about the products they sell.</p>
 		<h1>Use Case</h1>
-		<p></p>
-		<p>.</p>
+		<p>Barbara spends most of her time at working sitting at her desk. Although she gets up and walks a bit every hour,
+			her back pain is definitely noticeable at the end of the day. She has been living with chronic back pain for 15
+			years and has been prescribed pain medication for most of those 15 years. Recently, she has started to experiment
+			with natural alternatives to her pain medication.  Through trial and error, to her amazement, she has been able
+			to find a few natural alternatives that will help manage her pain. She still takes her pain medication when needed
+			but natural alternatives have allowed her step back the amount she has been taking. And since she has had great
+			success with natural alternatives she is always wanting to learn more about plants and herbs and is on the lookout
+			for new things to experiment with.</p>
+
 	</body>
 </html>
