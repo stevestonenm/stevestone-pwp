@@ -25,9 +25,9 @@
 		<h2>Wireframes</h2>
 		
 		<h3>Mobile</h3>
-		<img src="images/mobile.png" alt="mobile wireframes">
+			<img src="images/mobile.png" alt="mobile wireframes">
 
 		<h3>Desktop</h3>
-
+			<img src="images/desktop.png" alt="desktop wireframe">
 	</body>
 </html>
