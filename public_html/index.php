@@ -35,6 +35,7 @@
 	</head>
 	<body>
 		<header></header>
+		<!-- Jumbotron section -->
 		<section>
 			<div class="jumbotron">
 				<div class="container">
@@ -46,15 +47,30 @@
 				</div>
 			</div>
 		</section>
+		<!-- first section -->
 		<section>
 			<div id="popular" class="pad-section">
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-6">
-							<div class="panel panel-default"
-								  <div class="panel-heading">
-
-								  </div>
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h2 class="panel-title">Popular Ethnobotanicals</h2>
+								</div>
+								<div class="panel-body lead">
+									Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-6">
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									<h2 class="panel-title">Popular Ethnobotanicals</h2>
+								</div>
+								<div class="panel-body lead">
+									Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
