@@ -34,6 +34,32 @@
 
 	</head>
 	<body>
+		<header></header>
+		<section>
+			<div class="jumbotron">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12">
+							<h1>What Are Ethnobotanicals</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div id="popular" class="pad-section">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-6">
+							<div class="panel panel-default"
+								  <div class="panel-heading">
+
+								  </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 
 	</body>
 </html>
