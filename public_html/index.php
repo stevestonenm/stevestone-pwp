@@ -47,48 +47,92 @@
 				</div>
 			</div>
 		</section>
-		<!-- first section -->
+		<!-- first section(adds necessary image length)-->
 		<section>
-			<div id="whatis" class="pad-section">
+			<div id="length" class="pad-section">
 				<div class="container">
-					<div class="row">
-						<div class="col-xs-12">
-							<div class="panel panel-default">
-								<!--<div class="panel-heading">
-									<h2 class="panel-title">People + Plants</h2>
-								</div>-->
-								<div class="panel-body lead">
-
-								</div>
-							</div>
-						</div>
-
-					</div>
+<!--					<div class="row">-->
+<!--						<div class="col-xs-12">-->
+<!--							<div class="text-vcenter">-->
+<!--								<h2>People + Plants</h2>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</div>-->
 				</div>
 			</div>
 		</section>
 		<!-- second section -->
 		<section>
-			<div id="resources" class="pad-section">
+			<div id="ethno" class="pad-section">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-6">
+						<div class="col-md-6">
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h2 class="panel-title">Plants</h2>
+									<h2 class="panel-title">What Is Ethnobotany</h2>
 								</div>
-								<div class="panel-body lead">
+								<div class="panel-body lead" >
 									Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
 								</div>
 							</div>
 						</div>
-						<div class="col-xs-6">
+						<div class="col-md-6">
 							<div class="panel panel-default">
 								<div class="panel-heading">
-									<h2 class="panel-title">People</h2>
+									<h2 class="panel-title">Popular Ethnobotanicals</h2>
 								</div>
-								<div class="panel-body lead">
-									Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
+								<div class="panel-body">
+									<div class="media">
+										<a class="media-left">
+											<img src="images/ginseng.jpg" alt="ginseng berries">
+										</a>
+											<div class="media-body">
+												<h4 class="media-heading">Ginseng</h4>
+												Ginseng is a miracle plant!
+											</div>
+
+									</div>
+									<div class="media">
+										<a class="media-left">
+											<img src="images/ginseng.jpg" alt="ginseng berries">
+										</a>
+										<div class="media-body">
+											<h4 class="media-heading">Ginseng</h4>
+											Ginseng is a miracle plant!
+										</div>
+
+									</div>
+									<div class="media">
+										<a class="media-left">
+											<img src="images/ginseng.jpg" alt="ginseng berries">
+										</a>
+										<div class="media-body">
+											<h4 class="media-heading">Ginseng</h4>
+											Ginseng is a miracle plant!
+										</div>
+
+									</div>
+									<div class="media">
+										<a class="media-left">
+											<img src="images/ginseng.jpg" alt="ginseng berries">
+										</a>
+										<div class="media-body">
+											<h4 class="media-heading">Ginseng</h4>
+											Ginseng is a miracle plant!
+										</div>
+
+									</div>
+									<div class="media">
+										<a class="media-left">
+											<img src="images/ginseng.jpg" alt="ginseng berries">
+										</a>
+										<div class="media-body">
+											<h4 class="media-heading">Ginseng</h4>
+											Ginseng is a miracle plant!
+										</div>
+
+									</div>
+
 								</div>
 							</div>
 						</div>

@@ -33,10 +33,10 @@ html, body {
 /***************************************
 *first section
 *****************************************/
-#whatis {
+#length {
 	background: url("../images/three-leaf.jpg") no-repeat center center fixed;
 	display: table;
-	height: 50rem;
+	height: 30rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
@@ -44,14 +44,34 @@ html, body {
 	-o-background-size: cover;
 	background-size: cover;
 }
-#whatis .panel {
-	background: transparent;
-	border: hidden;
+
+
+/*****************************************
+* Second Section
+*******************************************/
+
+#ethno {
+	background: url("../images/map-2.jpg") no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
-#whatis .panel-body {
-	vertical-align: middle;
-	text-align: center;
-	font-size: 5rem;
+#ethno {
+	height: 10rem;
+	width: 100%;
+}
 
+.panel {
+	opacity: 0.85;
+}
+
+.media img {
+	height: 5rem;
+	width: 5rem;
 }
