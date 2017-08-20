@@ -36,7 +36,7 @@ html, body {
 #length {
 	background: url("../images/three-leaf.jpg") no-repeat center center fixed;
 	display: table;
-	height: 45rem;
+	height: 50rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
@@ -68,7 +68,7 @@ html, body {
 #resource {
 	background: url("../images/map.jpg") no-repeat center center fixed;
 	display: table;
-	height: 50rem;
+	height: 80rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
