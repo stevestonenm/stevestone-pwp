@@ -36,7 +36,7 @@ html, body {
 #length {
 	background: url("../images/three-leaf.jpg") no-repeat center center fixed;
 	display: table;
-	height: 30rem;
+	height: 45rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
@@ -50,22 +50,6 @@ html, body {
 * Second Section
 *******************************************/
 
-#ethno {
-	background: url("../images/map-2.jpg") no-repeat center center fixed;
-	display: table;
-	height: 100%;
-	position: relative;
-	width: 100%;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
-#ethno {
-	height: 10rem;
-	width: 100%;
-}
 
 .panel {
 	opacity: 0.85;
@@ -74,4 +58,21 @@ html, body {
 .media img {
 	height: 5rem;
 	width: 5rem;
+}
+
+
+/******************************************
+* Third Section
+*******************************************/
+
+#resource {
+	background: url("../images/map.jpg") no-repeat center center fixed;
+	display: table;
+	height: 50rem;
+	position: relative;
+	width: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }

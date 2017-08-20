@@ -140,6 +140,14 @@
 				</div>
 			</div>
 		</section>
+		<!-- third section-->
+		<section>
+			<div id="resource" class="pad-section">
+				<div class="container">
+
+				</div>
+			</div>
+		</section>
 
 	</body>
 </html>
