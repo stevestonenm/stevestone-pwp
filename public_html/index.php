@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -54,7 +54,7 @@
 <!--					<div class="row">-->
 <!--						<div class="col-xs-12">-->
 <!--							<div class="text-vcenter">-->
-<!--								<h2>People + Plants</h2>-->
+<!--								<h2></h2>-->
 <!--							</div>-->
 <!--						</div>-->
 <!--					</div>-->
@@ -67,141 +67,98 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h2 class="panel-title">What Is Ethnobotany</h2>
-								</div>
-								<div class="panel-body lead" >
-									Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
-								</div>
+							<h2>What Are Ethnobotanicals</h2>
+							<div class="lead" >
+								Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
 							</div>
 						</div>
-<!--						<div class="col-md-6">-->
-<!--							<div class="panel panel-default">-->
-<!--								<div class="panel-heading">-->
-<!--									<h2 class="panel-title">Popular Ethnobotanicals</h2>-->
-<!--								</div>-->
-<!--								<div class="panel-body">-->
-<!--									<div class="media">-->
-<!--										<a class="media-left">-->
-<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
-<!--										</a>-->
-<!--											<div class="media-body">-->
-<!--												<h4 class="media-heading">Ginseng</h4>-->
-<!--												Ginseng is a miracle plant!-->
-<!--											</div>-->
-<!---->
-<!--									</div>-->
-<!--									<div class="media">-->
-<!--										<a class="media-left">-->
-<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
-<!--										</a>-->
-<!--										<div class="media-body">-->
-<!--											<h4 class="media-heading">Ginseng</h4>-->
-<!--											Ginseng is a miracle plant!-->
-<!--										</div>-->
-<!---->
-<!--									</div>-->
-<!--									<div class="media">-->
-<!--										<a class="media-left">-->
-<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
-<!--										</a>-->
-<!--										<div class="media-body">-->
-<!--											<h4 class="media-heading">Ginseng</h4>-->
-<!--											Ginseng is a miracle plant!-->
-<!--										</div>-->
-<!---->
-<!--									</div>-->
-<!--									<div class="media">-->
-<!--										<a class="media-left">-->
-<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
-<!--										</a>-->
-<!--										<div class="media-body">-->
-<!--											<h4 class="media-heading">Ginseng</h4>-->
-<!--											Ginseng is a miracle plant!-->
-<!--										</div>-->
-<!---->
-<!--									</div>-->
-<!--									<div class="media">-->
-<!--										<a class="media-left">-->
-<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
-<!--										</a>-->
-<!--										<div class="media-body">-->
-<!--											<h4 class="media-heading">Ginseng</h4>-->
-<!--											Ginseng is a miracle plant!-->
-<!--										</div>-->
-<!---->
-<!--									</div>-->
-<!---->
-<!--								</div>-->
-<!--							</div>-->
-<!--						</div>-->
 					</div>
 				</div>
 			</div>
 		</section>
 		<!-- third section-->
 		<section>
-			<div id="resource" class="pad-section">
+			<div id="popular" class="pad-section">
 				<div class="container">
 					<div class="col-md-12">
 						<div class="panel panel-default">
-<!--							<div class="panel-heading">-->
-<!--								<h2 class="panel-title">Popular Ethnobotanicals</h2>-->
-<!--							</div>-->
-							<div class="panel-body">
-								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
-									</div>
-
-								</div>
-								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
-									</div>
-
-								</div>
-								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
-									</div>
-
-								</div>
-								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
-									</div>
-
-								</div>
-								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
-									</a>
-									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
-									</div>
-
-								</div>
-
+							<div class="panel-heading">
+								<h2 class="panel-title">Popular Ethnobotanicals</h2>
 							</div>
+							<div class="panel-body lead">
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- fourth section -->
+		<section>
+			<div id="resources" class="pad-section">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6 lead">
+							<h2>Resources</h2>
+							<a href="https://www.americankratom.org/">
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>American Kratom Association<br>
+							</a>
+							<a href="https://www.botanical-education.org/">
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>Botanical Education Alliance<br>
+							</a>
+							<a href="https://plants.usda.gov/culturalinfo.html#guides">
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>Culturally Significant Plants-USDA<br>
+							</a>
+							<a href="http://naeb.brit.org/">
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>Native American Ethnobotany Database<br>
+							</a>
+						</div>
+						<div class="col-md-6 lead">
+							<p>Let's make some happy little clouds in our world. If it's not what you want - stop and change it. Don't just keep going and expect it will get better. When you buy that first tube of paint it gives you an artist license. We have a fantastic little sky! There it is. You can work and carry-on and put lots of little happy things in here.</p>
 						</div>
 					</div>
 				</div>
