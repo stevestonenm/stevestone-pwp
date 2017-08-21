@@ -66,7 +66,7 @@
 			<div id="ethno" class="pad-section">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-6">
+						<div class="col-md-12">
 							<div class="panel panel-default">
 								<div class="panel-heading">
 									<h2 class="panel-title">What Is Ethnobotany</h2>
@@ -76,66 +76,66 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6">
-							<div class="panel panel-default">
-								<div class="panel-heading">
-									<h2 class="panel-title">Popular Ethnobotanicals</h2>
-								</div>
-								<div class="panel-body">
-									<div class="media">
-										<a class="media-left">
-											<img src="images/ginseng.jpg" alt="ginseng berries">
-										</a>
-											<div class="media-body">
-												<h4 class="media-heading">Ginseng</h4>
-												Ginseng is a miracle plant!
-											</div>
-
-									</div>
-									<div class="media">
-										<a class="media-left">
-											<img src="images/ginseng.jpg" alt="ginseng berries">
-										</a>
-										<div class="media-body">
-											<h4 class="media-heading">Ginseng</h4>
-											Ginseng is a miracle plant!
-										</div>
-
-									</div>
-									<div class="media">
-										<a class="media-left">
-											<img src="images/ginseng.jpg" alt="ginseng berries">
-										</a>
-										<div class="media-body">
-											<h4 class="media-heading">Ginseng</h4>
-											Ginseng is a miracle plant!
-										</div>
-
-									</div>
-									<div class="media">
-										<a class="media-left">
-											<img src="images/ginseng.jpg" alt="ginseng berries">
-										</a>
-										<div class="media-body">
-											<h4 class="media-heading">Ginseng</h4>
-											Ginseng is a miracle plant!
-										</div>
-
-									</div>
-									<div class="media">
-										<a class="media-left">
-											<img src="images/ginseng.jpg" alt="ginseng berries">
-										</a>
-										<div class="media-body">
-											<h4 class="media-heading">Ginseng</h4>
-											Ginseng is a miracle plant!
-										</div>
-
-									</div>
-
-								</div>
-							</div>
-						</div>
+<!--						<div class="col-md-6">-->
+<!--							<div class="panel panel-default">-->
+<!--								<div class="panel-heading">-->
+<!--									<h2 class="panel-title">Popular Ethnobotanicals</h2>-->
+<!--								</div>-->
+<!--								<div class="panel-body">-->
+<!--									<div class="media">-->
+<!--										<a class="media-left">-->
+<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
+<!--										</a>-->
+<!--											<div class="media-body">-->
+<!--												<h4 class="media-heading">Ginseng</h4>-->
+<!--												Ginseng is a miracle plant!-->
+<!--											</div>-->
+<!---->
+<!--									</div>-->
+<!--									<div class="media">-->
+<!--										<a class="media-left">-->
+<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
+<!--										</a>-->
+<!--										<div class="media-body">-->
+<!--											<h4 class="media-heading">Ginseng</h4>-->
+<!--											Ginseng is a miracle plant!-->
+<!--										</div>-->
+<!---->
+<!--									</div>-->
+<!--									<div class="media">-->
+<!--										<a class="media-left">-->
+<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
+<!--										</a>-->
+<!--										<div class="media-body">-->
+<!--											<h4 class="media-heading">Ginseng</h4>-->
+<!--											Ginseng is a miracle plant!-->
+<!--										</div>-->
+<!---->
+<!--									</div>-->
+<!--									<div class="media">-->
+<!--										<a class="media-left">-->
+<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
+<!--										</a>-->
+<!--										<div class="media-body">-->
+<!--											<h4 class="media-heading">Ginseng</h4>-->
+<!--											Ginseng is a miracle plant!-->
+<!--										</div>-->
+<!---->
+<!--									</div>-->
+<!--									<div class="media">-->
+<!--										<a class="media-left">-->
+<!--											<img src="images/ginseng.jpg" alt="ginseng berries">-->
+<!--										</a>-->
+<!--										<div class="media-body">-->
+<!--											<h4 class="media-heading">Ginseng</h4>-->
+<!--											Ginseng is a miracle plant!-->
+<!--										</div>-->
+<!---->
+<!--									</div>-->
+<!---->
+<!--								</div>-->
+<!--							</div>-->
+<!--						</div>-->
 					</div>
 				</div>
 			</div>
@@ -144,7 +144,66 @@
 		<section>
 			<div id="resource" class="pad-section">
 				<div class="container">
+					<div class="col-md-12">
+						<div class="panel panel-default">
+<!--							<div class="panel-heading">-->
+<!--								<h2 class="panel-title">Popular Ethnobotanicals</h2>-->
+<!--							</div>-->
+							<div class="panel-body">
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
 
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+
+								</div>
+								<div class="media">
+									<a class="media-left">
+										<img src="images/ginseng.jpg" alt="ginseng berries">
+									</a>
+									<div class="media-body">
+										<h4 class="media-heading">Ginseng</h4>
+										Ginseng is a miracle plant!
+									</div>
+
+								</div>
+
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
