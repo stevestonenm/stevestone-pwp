@@ -21,8 +21,8 @@ html, body {
 	text-align: center;
 	background: url("../images/three-leaf.jpg") no-repeat center center fixed;
 	display: table;
-	width: 100%;
 	height: 30rem;
+	width: 100%;
 	padding-top: 10rem;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;

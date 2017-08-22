@@ -38,9 +38,9 @@
 		<!-- Jumbotron section -->
 		<section>
 			<div class="jumbotron">
-				<div class="container">
+				<div class="container-fluid">
 					<div class="row">
-						<div class="col-xs-12">
+						<div class="col-sm-12">
 							<h1>Plants + People</h1>
 						</div>
 					</div>
@@ -50,7 +50,7 @@
 		<!-- first section(adds necessary image length)-->
 		<section>
 			<div id="length" class="pad-section">
-				<div class="container">
+				<div class="container-fluid">
 <!--					<div class="row">-->
 <!--						<div class="col-xs-12">-->
 <!--							<div class="text-vcenter">-->
@@ -64,7 +64,7 @@
 		<!-- second section -->
 		<section>
 			<div id="ethno" class="pad-section">
-				<div class="container">
+				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-12">
 							<h2>What Are Ethnobotanicals</h2>
@@ -79,7 +79,7 @@
 		<!-- third section-->
 		<section>
 			<div id="popular" class="pad-section">
-				<div class="container">
+				<div class="container-fluid">
 					<div class="col-md-12">
 						<div class="panel panel-default">
 							<div class="panel-heading">
@@ -140,7 +140,7 @@
 		<!-- fourth section -->
 		<section>
 			<div id="resources" class="pad-section">
-				<div class="container">
+				<div class="container-fluid">
 					<div class="row">
 						<div class="col-md-6 lead">
 							<h2>Resources</h2>
