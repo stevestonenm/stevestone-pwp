@@ -87,7 +87,7 @@
 							</div>
 							<div class="panel-body lead">
 								<div class="media">
-									<a class="media-left">
+									<a href="images/ginseng.jpg" class="media-left">
 										<img src="images/ginseng.jpg" alt="ginseng berries">
 									</a>
 									<div class="media-body">
@@ -123,7 +123,7 @@
 									</div>
 								</div>
 								<div class="media">
-									<a class="media-left">
+									<a href="" class="media-left">
 										<img src="images/ginseng.jpg" alt="ginseng berries">
 									</a>
 									<div class="media-body">
@@ -164,6 +164,19 @@
 				</div>
 			</div>
 		</section>
+
+<!--		<footer class="navbar-fixed-bottom">-->
+<!--			<div class="container">-->
+<!--				<div class="row">-->
+<!--					<div class="col-sm-6">-->
+<!--						I am a-->
+<!--					</div>-->
+<!--					<div class="col-sm-6 text-right-sm">-->
+<!--						Footer-->
+<!--					</div>-->
+<!--				</div>-->
+<!--			</div>-->
+<!--		</footer>-->
 
 	</body>
 </html>
