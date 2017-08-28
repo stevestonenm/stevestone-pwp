@@ -43,7 +43,7 @@ html, body {
 	display: table;
 	height: 30rem;
 	width: 100%;
-	padding-top: 10rem;
+	padding-top: 20rem;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -127,6 +127,9 @@ html, body {
 	color: cyan;
 }
 
+legend {
+	color: white;
+}
 
 
 .footer {
