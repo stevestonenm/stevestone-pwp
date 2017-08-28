@@ -38,8 +38,7 @@
 
 	</header>
 
-	<body class="sfooter">
-		<div class="sfooter-content">
+	<body>
 		<header>
 			<nav class="navbar navbar-inverse navbar-fixed-top navbar-custom">
 				<div class="container-fluid">
@@ -184,18 +183,18 @@
 			</div>
 		</section>
 
-		<footer class="navbar-bottom navbar-inverse">
-			<div class="container">
+		<footer class="footer">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-6">
 						I am a
 					</div>
-					<div class="col-sm-6 text-right-sm">
+					<div class="col-sm-6">
 						Footer
 					</div>
 				</div>
 			</div>
 		</footer>
-		</div>
+
 	</body>
 </html>
