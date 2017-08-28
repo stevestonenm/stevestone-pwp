@@ -33,11 +33,30 @@
 		<title>What are Ethnobotanicals</title>
 
 	</head>
-	<body>
-		<!--<header></header>-->
+
+	<header>
+
+	</header>
+
+	<body class="sfooter">
+		<div class="sfooter-content">
+		<header>
+			<nav class="navbar navbar-inverse navbar-fixed-top navbar-custom">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<a class="navbar-brand" href="#jumbo" >Etnobots</a>
+					</div>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#ethno">What</a></li>
+						<li><a href="#popular">Popular</a>
+						<li><a href="#resources">Resources</a></li>
+					</ul>
+				</div>
+			</nav>
+		</header>
 		<!-- Jumbotron section -->
 		<section>
-			<div class="jumbotron">
+			<div class="jumbotron" id="jumbo">
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-sm-12">
@@ -165,18 +184,18 @@
 			</div>
 		</section>
 
-<!--		<footer class="navbar-fixed-bottom">-->
-<!--			<div class="container">-->
-<!--				<div class="row">-->
-<!--					<div class="col-sm-6">-->
-<!--						I am a-->
-<!--					</div>-->
-<!--					<div class="col-sm-6 text-right-sm">-->
-<!--						Footer-->
-<!--					</div>-->
-<!--				</div>-->
-<!--			</div>-->
-<!--		</footer>-->
-
+		<footer class="navbar-bottom navbar-inverse">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						I am a
+					</div>
+					<div class="col-sm-6 text-right-sm">
+						Footer
+					</div>
+				</div>
+			</div>
+		</footer>
+		</div>
 	</body>
 </html>

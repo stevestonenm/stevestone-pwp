@@ -8,6 +8,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
+	font-family: cursive;
 }
 
 .pad-section {
@@ -15,10 +16,29 @@ html, body {
 }
 
 /*************************************
+* Header
+**************************************/
+.navbar {
+	margin: 0 0 0 0;
+}
+
+.navbar-brand {
+	font-size: x-large;
+}
+
+.navbar-right {
+	font-size: large;
+}
+
+
+
+
+/*************************************
 * JumboTron
 **************************************/
 .jumbotron {
 	text-align: center;
+	vertical-align: bottom;
 	background: url("../images/three-leaf.jpg") no-repeat center center fixed;
 	display: table;
 	height: 30rem;
@@ -36,7 +56,7 @@ html, body {
 #length {
 	background: url("../images/three-leaf.jpg") no-repeat center center fixed;
 	display: table;
-	height: 50rem;
+	height: 45rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
@@ -67,9 +87,9 @@ html, body {
 *******************************************/
 
 #popular {
-	background: url("../images/map-3.jpg") no-repeat center center fixed;
+	background: url("../images/kflower.jpg") no-repeat center center fixed;
 	display: table;
-	height: 100%;
+	height: 50rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
@@ -78,8 +98,14 @@ html, body {
 	background-size: cover;
 }
 
+#popular {
+	padding: 3.8rem;
+}
+
 #popular .panel {
 	opacity: 0.90;
+	margin-top: 2.5rem;
+	margin-bottom: 2.5rem;
 }
 
 .media img {
@@ -99,4 +125,29 @@ html, body {
 
 #resources a {
 	color: cyan;
+}
+
+
+
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
+
+/*corrects IE min-height bug*/
+html { display: flex;}
+body { width: 100%;}
+
+.sfooter {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.sfooter-content {
+	flex: 1 0 auto;
+}
+
+.navbar-bottom {
+	color: white;
 }
