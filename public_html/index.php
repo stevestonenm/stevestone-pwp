@@ -171,16 +171,16 @@
 						<div class="col-md-6 lead">
 							<h2>Resources</h2>
 							<a href="https://www.americankratom.org/">
-								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>American Kratom Association<br>
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true">American Kratom Association</span><br>
 							</a>
 							<a href="https://www.botanical-education.org/">
-								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>Botanical Education Alliance<br>
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true">Botanical Education Alliance</span><br>
 							</a>
 							<a href="https://plants.usda.gov/culturalinfo.html#guides">
-								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>Culturally Significant Plants-USDA<br>
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true">Culturally Significant Plants-USDA</span><br>
 							</a>
 							<a href="http://naeb.brit.org/">
-								<span class="glyphicon glyphicon-leaf" aria-hidden="true"></span>Native American Ethnobotany Database<br>
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true">Native American Ethnobotany Database</span><br>
 							</a>
 						</div>
 						<div class="col-md-6 lead">

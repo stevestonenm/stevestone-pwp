@@ -89,7 +89,7 @@ html, body {
 #popular {
 	background: url("../images/kflower.jpg") no-repeat center center fixed;
 	display: table;
-	height: 50rem;
+	height: 100%;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
@@ -98,14 +98,14 @@ html, body {
 	background-size: cover;
 }
 
-/*#popular {*/
-	/*padding: 3.8rem;*/
-/*}*/
+#popular {
+	padding: 3.8rem;
+}
 
 #popular .panel {
 	 opacity: 0.90;
-	 /*margin-top: 2.5rem;*/
-	 /*margin-bottom: 2.5rem;*/
+	 margin-top: 2.5rem;
+	 margin-bottom: 2.5rem;
  }
 
 .media img {
