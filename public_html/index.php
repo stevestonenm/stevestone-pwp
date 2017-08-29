@@ -17,6 +17,9 @@
 
 		<!--custom css goes here-->
 		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
+		<link href="https://fonts.googleapis.com/css?family=Itim|Patrick+Hand|Short+Stack" rel="stylesheet">
+		<script type="text/javascript" src="javascript/script.js"></script>
+
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
@@ -34,22 +37,27 @@
 
 	</head>
 
-	<header>
-
-	</header>
-
 	<body>
 		<header>
-			<nav class="navbar navbar-inverse navbar-fixed-top navbar-custom">
+			<nav class="navbar navbar-inverse navbar-fixed-top ">
 				<div class="container-fluid">
 					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
 						<a class="navbar-brand" href="#jumbo" >Etnobots</a>
 					</div>
-					<ul class="nav navbar-nav navbar-right">
-						<li><a href="#ethno">What</a></li>
-						<li><a href="#popular">Popular</a>
-						<li><a href="#resources">Resources</a></li>
-					</ul>
+					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#ethno">What</a></li>
+							<li><a href="#popular">Popular</a>
+							<li><a href="#resources">Resources</a></li>
+						</ul>
+					</div>
+
 				</div>
 			</nav>
 		</header>
@@ -114,7 +122,7 @@
 									</div>
 								</div>
 								<div class="media">
-									<a class="media-left">
+									<a href="images/ginseng.jpg" class="media-left">
 										<img src="images/ginseng.jpg" alt="ginseng berries">
 									</a>
 									<div class="media-body">

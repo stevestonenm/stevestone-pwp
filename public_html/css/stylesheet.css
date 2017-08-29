@@ -8,7 +8,7 @@
 html, body {
 	height: 100%;
 	width: 100%;
-	font-family: cursive;
+	font-family: 'short stack', cursive;
 }
 
 .pad-section {
@@ -98,20 +98,21 @@ html, body {
 	background-size: cover;
 }
 
-#popular {
-	padding: 3.8rem;
-}
+/*#popular {*/
+	/*padding: 3.8rem;*/
+/*}*/
 
 #popular .panel {
-	opacity: 0.90;
-	margin-top: 2.5rem;
-	margin-bottom: 2.5rem;
-}
+	 opacity: 0.90;
+	 /*margin-top: 2.5rem;*/
+	 /*margin-bottom: 2.5rem;*/
+ }
 
 .media img {
 	height: 5rem;
 	width: 5rem;
 }
+
 
 /********************************************
 * Section Four
