@@ -193,8 +193,10 @@
 								<span class="glyphicon glyphicon-leaf" aria-hidden="true">Native American Ethnobotany Database</span><br>
 							</a>
 						</div>
+
+						<!--contact form-->
 						<div class="col-md-6 lead">
-							<form class="form-horizontal" action="" method="post">
+							<form class="form-horizontal" action="" method="post" id="contact-form" novalidate >
 								<fieldset>
 									<legend class="text-center">Contact us</legend>
 
@@ -230,6 +232,9 @@
 									</div>
 								</fieldset>
 							</form>
+							<!--form error/success message area-->
+							<div id="output-area"></div>
+
 						</div>
 					</div>
 					<div class="row">
