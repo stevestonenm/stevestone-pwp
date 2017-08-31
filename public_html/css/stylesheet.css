@@ -137,3 +137,25 @@ legend {
 	background: black;
 	color: gray;
 }
+
+/********************************************
+* Form
+*********************************************/
+
+.g-recaptcha {
+	float: right;
+}
+
+/********************************************
+* Footer
+*********************************************/
+
+.footer {
+	background: black;
+	color: gray;
+}
+
+.col-sm-2 {
+	text-align: center;
+	padding: 3rem;
+}
