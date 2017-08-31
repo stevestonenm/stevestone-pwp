@@ -216,6 +216,14 @@
 										</div>
 									</div>
 
+									<!-- subject input-->
+									<div class="form-group">
+										<label class="col-md-3 control-label" for="subject">Subject</label>
+										<div class="col-md-9">
+											<input id="subject" name="subject" type="text" placeholder="Subject" class="form-control">
+										</div>
+									</div>
+
 									<!-- Message body -->
 									<div class="form-group">
 										<label class="col-md-3 control-label" for="message">Your message</label>
