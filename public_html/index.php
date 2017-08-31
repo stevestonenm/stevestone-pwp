@@ -18,7 +18,7 @@
 		<!--custom css goes here-->
 		<link rel="stylesheet" href="css/stylesheet.css" type="text/css">
 		<link href="https://fonts.googleapis.com/css?family=Itim|Patrick+Hand|Short+Stack" rel="stylesheet">
-		<script type="text/javascript" src="javascript/script.js"></script>
+
 
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -34,6 +34,11 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+
+
+		<!--javascript links-->
+		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="js/jquery-validate.js"></script>
 
 		<!-----------Google recaptcha---------------->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -196,7 +201,7 @@
 
 						<!--contact form-->
 						<div class="col-md-6 lead">
-							<form class="form-horizontal" action="" method="post" id="contact-form" novalidate >
+							<form class="form-horizontal" action="php/mailer.php" method="post" id="contact-form" novalidate >
 								<fieldset>
 									<legend class="text-center">Contact us</legend>
 
@@ -231,6 +236,9 @@
 											<textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5"></textarea>
 										</div>
 									</div>
+
+									<!-- reCAPTCHA -->
+									<div class="g-recaptcha" data-sitekey="6Lem6y4UAAAAAErkGX9Y1aY1wkY-VEAJgI4v-iPh"></div>
 
 									<!-- Form actions -->
 									<div class="form-group">
