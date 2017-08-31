@@ -23,8 +23,7 @@ $(document).ready(function(){
 			},
 			message: {
 				required: true,
-				maxlength: 2000,
-				minlenght: 1
+				maxlength: 2000
 			},
 			subject: {
 				required: false,
@@ -45,8 +44,7 @@ $(document).ready(function(){
 			},
 			message: {
 				required: "Please enter a message.",
-				maxlength: "2000 characters max.",
-				minlength: "Please say something."
+				maxlength: "2000 characters max."
 			},
 			subject: {
 				maxlength: "Subject is too long."

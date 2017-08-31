@@ -244,14 +244,22 @@
 									<!-- Form actions -->
 									<div class="form-group">
 										<div class="col-md-12 text-right">
-											<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+											<button type="submit" class="btn btn-primary btn-lg">Submit</button>
 										</div>
 									</div>
 								</fieldset>
 							</form>
 							<!--form error/success message area-->
 							<div id="output-area"></div>
+
 						</div>
+					</div>
+<!--					<div class="row">-->
+<!--						<div class="col-md-12">-->
+<!--							<p class="disclaimer">-->
+<!--								Disclaimer: The information contained on this site is for informational purposes. It is not meant as a substitute for a medical professional. If you suspect you have a disease or health-related condition of any kind, you should contact your health care professional immediately. Please read all product packaging carefully and consult with a healthcare professional before starting any diet, exercise, supplementation or medication program. These statements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent disease.-->
+<!--							</p>-->
+<!--						</div>-->
 					</div>
 				</div>
 			</div>
