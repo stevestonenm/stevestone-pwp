@@ -2,3 +2,6 @@
 /.idea
 /node_modules
 /vendor
+
+# ignore sensitive email config data!!
+**/php/mail-config.php
