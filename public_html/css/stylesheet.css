@@ -66,8 +66,6 @@ html, body {
 }
 
 
-
-
 /*****************************************
 * Second Section
 *******************************************/
@@ -109,8 +107,8 @@ html, body {
  }
 
 .media img {
-	height: 5rem;
-	width: 5rem;
+	height: 9rem;
+	width: 12rem;
 }
 
 

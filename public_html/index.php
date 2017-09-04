@@ -63,7 +63,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#jumbo" >Etnobots</a>
+						<a class="navbar-brand" href="#jumbo" >Ethnobots</a>
 					</div>
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
@@ -88,7 +88,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- first section(adds necessary image length)-->
+		<!-- first section(adds necessary background-image length)-->
 		<section>
 			<div id="length" class="pad-section">
 				<div class="container-fluid">
@@ -110,7 +110,7 @@
 						<div class="col-md-12">
 							<h2>What Are Ethnobotanicals</h2>
 							<div class="lead" >
-								Very easy to work these to death. You can't have light without dark. You can't know happiness unless you've known sorrow. We don't make mistakes we just have happy little accidents. This is your creation - and it's just as unique and special as you are. You can create the world you want to see and be a part of. You have that power. Isn't it great to do something you can't fail at? You don't have to be crazy to do this but it does help. We tell people sometimes: we're like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn't take much to get you addicted. You have freedom here. The only guide is your heart. If you do too much it's going to lose its effectiveness.
+								Ethnobotany can be broken down into two parts each with their own meaning: Ethno- people or culture and Botany- science of plants.  With these to definitions in mind it is easy to discern the meaning of ethnobotany.  Simply put it is the study of how a people or culture use and interact with plants.  When studying aboriginal cultures, past and present, it quickly becomes apparent that plants have always played a major role in culture, including plants used for food, medicine, and textiles.  Unfortunately, most people living in a modern society have lost the connection between plants and people. This is despite the fact that almost all the food consumed is directly or indirectly derived from plants. In recent years there has been a growing interest in the traditional use of plants as medicine.  Sometimes these plants are generically referred to as ethnobotanicals- plants that are used by a culture.  Ethnobotanicals can range from superfoods to strong psychedelics and everything in between.  However, they are not drugs and shouldn’t be considered as such. In their pure natural form, ethnobotanicals are plants that can possess strong healing properties which people can use to enhance and improve their lives.
 							</div>
 						</div>
 					</div>
@@ -132,44 +132,44 @@
 										<img src="images/ginseng.jpg" alt="ginseng berries">
 									</a>
 									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
+										<h4 class="media-heading lead">Ginseng</h4>
+										This plant has been praised for its energy and immune boosting properties. It has a long history of use in Asia and North America where it was traditionally found in the wild.
 									</div>
 								</div>
 								<div class="media">
-									<a href="images/ginseng.jpg" class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
+									<a href="images/kleaf.jpg" class="media-left">
+										<img src="images/kleaf.jpg" alt="kratom leaf">
 									</a>
 									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
+										<h4 class="media-heading lead">Kratom</h4>
+										Related to coffee, it has been used for centuries in Southeast Asia to increase energy and enhance mood.  Other traditional uses include treatment for diarrhea, use as a pain killer and to help with opiate withdrawal.
 									</div>
 								</div>
 								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
+									<a href="images/gbleaf.jpg" class="media-left">
+										<img src="images/gbleaf.jpg" alt="ginkgo leaf">
 									</a>
 									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
+										<h4 class="media-heading lead">Ginkgo Biloba</h4>
+										Long used in traditional Chinese Medicine and is one of the most commonly used ethnobotanicals in the world.  Uses include improved cognitive function and enhanced mood. It may also help fight dementia.
 									</div>
 								</div>
 								<div class="media">
-									<a class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
+									<a href="images/coffee.jpg" class="media-left">
+										<img src="images/coffee.jpg" alt="coffee beans">
 									</a>
 									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
+										<h4 class="media-heading lead">Coffee</h4>
+										Known for thousands of years to increase energy and vitality.  It has strong antioxidant properties and may lower risks of Alzheimer’s disease.
 									</div>
 								</div>
 								<div class="media">
-									<a href="" class="media-left">
-										<img src="images/ginseng.jpg" alt="ginseng berries">
+									<a href="images/spcactus.jpg" class="media-left">
+										<img src="images/spcactus.jpg" alt="san pedro cactus">
 									</a>
 									<div class="media-body">
-										<h4 class="media-heading">Ginseng</h4>
-										Ginseng is a miracle plant!
+										<h4 class="media-heading lead">San Pedro Cactus</h4>
+										Used for thousands of years in Mesoamerica, this hallucinogenic cactus has been referred to as a miracle cure for illnesses that Western Medicine has no cures for. The tea is usually drank in a ceremony led by a “curandero” or shaman.
 									</div>
 								</div>
 							</div>
@@ -268,11 +268,8 @@
 		<footer class="footer">
 			<div class="container-fluid">
 				<div class="row">
-					<div class="col-sm-2">
-						<span class="glyphicon glyphicon-copyright-mark" aria-hidden="true">2017</span>
-					</div>
-					<div class="col-sm-10">
-						Disclaimer: The information contained on this site is for informational purposes. It is not meant as a substitute for a medical professional. If you suspect you have a disease or health-related condition of any kind, you should contact your health care professional immediately. Please read all product packaging carefully and consult with a healthcare professional before starting any diet, exercise, supplementation or medication program. These statements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent disease.
+					<div class="col-sm-12">
+						Disclaimer: The information contained on this site is for informational purposes. It is not meant as a substitute for a medical professional. If you suspect you have a disease or health-related condition contact your health care professional immediately. Please consult with a healthcare professional before starting any diet, exercise, supplementation or medication program. These statements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent disease.
 					</div>
 				</div>
 			</div>
