@@ -109,8 +109,8 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h2>What Are Ethnobotanicals</h2>
-							<div class="lead" >
-								Ethnobotany can be broken down into two parts each with their own meaning: Ethno- people or culture and Botany- science of plants.  With these to definitions in mind it is easy to discern the meaning of ethnobotany.  Simply put it is the study of how a people or culture use and interact with plants.  When studying aboriginal cultures, past and present, it quickly becomes apparent that plants have always played a major role in culture, including plants used for food, medicine, and textiles.  Unfortunately, most people living in a modern society have lost the connection between plants and people. This is despite the fact that almost all the food consumed is directly or indirectly derived from plants. In recent years there has been a growing interest in the traditional use of plants as medicine.  Sometimes these plants are generically referred to as ethnobotanicals- plants that are used by a culture.  Ethnobotanicals can range from superfoods to strong psychedelics and everything in between.  However, they are not drugs and shouldn’t be considered as such. In their pure natural form, ethnobotanicals are plants that can possess strong healing properties which people can use to enhance and improve their lives.
+							<div class="lead">
+								Ethnobotany can be broken down into two parts, each with their own meaning: Ethno- people or culture and Botany- science of plants.  With these two definitions in mind it is easy to discern the meaning of ethnobotany.  Simply put it is the study of how a people or culture use and interact with plants.  When studying aboriginal cultures, past and present, it quickly becomes apparent that plants have always played a major role in culture, including plants used for food, medicine, and textiles.  Unfortunately, most people living in a modern society have lost the connection between plants and people. This is despite the fact that almost all the food consumed is directly or indirectly derived from plants. In recent years there has been a growing interest in the traditional use of plants as medicine.  Sometimes these plants are generically referred to as ethnobotanicals, plants that are used by a culture.  Ethnobotanicals can range from superfoods to strong psychedelics and everything in between. In their unadulterated form, ethnobotanicals are plants that possess strong healing properties which people can use to enhance and improve their lives.
 							</div>
 						</div>
 					</div>
@@ -124,7 +124,7 @@
 					<div class="col-md-12">
 						<div class="panel panel-default">
 							<div class="panel-heading">
-								<h2 class="panel-title">Popular Ethnobotanicals</h2>
+								<h2 class="panel-title lead">Popular Ethnobotanicals</h2>
 							</div>
 							<div class="panel-body lead">
 								<div class="media">
@@ -133,7 +133,7 @@
 									</a>
 									<div class="media-body">
 										<h4 class="media-heading lead">Ginseng</h4>
-										This plant has been praised for its energy and immune boosting properties. It has a long history of use in Asia and North America where it was traditionally found in the wild.
+										The fleshy roots of this plant have long been praised for its energy and immune boosting properties. Other benefits include lowering blood sugar and improve cognitive function. It's history dates back thousands of years in Asia and North America where it is native to both continents.
 									</div>
 								</div>
 								<div class="media">
@@ -160,7 +160,7 @@
 									</a>
 									<div class="media-body">
 										<h4 class="media-heading lead">Coffee</h4>
-										Known for thousands of years to increase energy and vitality.  It has strong antioxidant properties and may lower risks of Alzheimer’s disease.
+										Known for thousands of years to increase energy and vitality.  Coffee is has roots in Ethiopia and qucikly spread around the world. It has strong antioxidant properties and may lower the risk of Alzheimer’s disease.
 									</div>
 								</div>
 								<div class="media">
@@ -196,6 +196,9 @@
 							</a>
 							<a href="http://naeb.brit.org/">
 								<span class="glyphicon glyphicon-leaf" aria-hidden="true">Native American Ethnobotany Database</span><br>
+							</a>
+							<a href="http://www.maya-ethnobotany.org/">
+								<span class="glyphicon glyphicon-leaf" aria-hidden="true">Maya Ethnobotany</span><br>
 							</a>
 						</div>
 
@@ -269,7 +272,7 @@
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-sm-12">
-						Disclaimer: The information contained on this site is for informational purposes. It is not meant as a substitute for a medical professional. If you suspect you have a disease or health-related condition contact your health care professional immediately. Please consult with a healthcare professional before starting any diet, exercise, supplementation or medication program. These statements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent disease.
+						Important Disclaimer: The information contained on this site is for informational purposes. It is not meant as a substitute for a medical professional. If you suspect you have a disease or health-related condition contact your health care professional immediately. Please consult with a healthcare professional before starting any diet, exercise, supplementation or medication program. These statements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent disease.
 					</div>
 				</div>
 			</div>
