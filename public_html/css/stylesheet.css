@@ -12,7 +12,7 @@ html, body {
 }
 
 .pad-section {
-	padding: 50px;
+	padding: 5rem 2rem 5rem 2rem;
 }
 
 /*************************************
@@ -87,28 +87,26 @@ html, body {
 #popular {
 	background: url("../images/kflower.jpg") no-repeat center center fixed;
 	display: table;
-	height: 45rem;
+	height: 60rem;
 	position: relative;
 	width: 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-}
-
-#popular {
-	padding: 10rem 3.8rem 10rem 3.8rem;
+	padding: 5rem 0 5rem 0;
 }
 
 #popular .panel {
 	 opacity: 0.90;
 	 margin-top: 2.5rem;
 	 margin-bottom: 2.5rem;
+	border: 0;
  }
 
 .media img {
 	height: 9rem;
-	width: 12rem;
+	width: 11rem;
 }
 
 
@@ -116,25 +114,23 @@ html, body {
 * Section Four
 *********************************************/
 
+
+
 #resources {
 	background: limegreen;
 	color: white;
 	text-align: justify;
+	padding: 5rem 2rem 0 2rem;
 }
 
 #resources a {
 	color: cyan;
 }
 
-legend {
-	color: white;
-}
 
 
-.footer {
-	background: black;
-	color: gray;
-}
+
+
 
 /********************************************
 * Form
@@ -144,6 +140,10 @@ legend {
 	float: right;
 }
 
+legend {
+	color: white;
+}
+
 /********************************************
 * Footer
 *********************************************/
@@ -151,9 +151,6 @@ legend {
 .footer {
 	background: black;
 	color: gray;
-}
-
-.col-sm-2 {
-	text-align: center;
-	padding: 3rem;
+	padding: 0 2rem 0 2rem;
+	text-align: justify;
 }
