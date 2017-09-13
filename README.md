@@ -33,3 +33,24 @@ The ideas you have here can be implemented well - with varying degrees of comple
 I totally recommend FontAwesome for iconography, and Google Fonts for custom typography.
 
 Overall - very nice work. Your HTML looks great too. Your Milestone 2a passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are clear to begin development on your PWP. You'll want to build your PWP page in the following location: `public_html/index.php`, and the next Milestone will be a mid-development checkin. 
+
+## PWP Milestone 3 Feedback
+Nice work on your PWP - you've done a great job creating an attractive, informative site that is built according to spec and best practices. Your code is looking great, nice work.
+
+Your contact form appears to be working a-ok - check your email and see if you received my test message.
+
+I see a lot of potential for this project going forward. Perhaps a blogging CMS like WordPress would be an avenue to explore going forward with a project like this. 
+
+Your Milestone 3 passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+Your overall grade across all of your PWP Milestones is 37/40 points (92.5%).
+
+- Milestone 1 - 20%: Tier IV 40(0.2) = 8
+- Milestone 2a - 20%: Tier III 30(0.2) = 6
+- Milestone 2b - 10%: Tier III 30(0.1) = 3
+- Milestone 3 - 50%: Tier IV 40(0.5) = 20
+
+### Edits &amp; Suggestions
+- To be on the safe side, I would make sure to load your custom CSS AFTER your Google Font link. It seems to be working fine for me here, but could potentially have reference issues.
+- Best to open links to other sites in a new tab by using the `target="_blank"` attribute on your links.
+- We didn't discuss favicons in class (ran out of time), but check out this handy tool that generates a suite of icons for different devices: https://realfavicongenerator.net/
